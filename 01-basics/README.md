@@ -1,4 +1,4 @@
-# Learning Notes Template
+# 01-basics: Embedded Fundamentals
 
 ## Objectives
 - 

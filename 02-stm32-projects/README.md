@@ -1,4 +1,4 @@
-# Learning Notes Template
+# 02-stm32-projects: STM32 Development
 
 ## Objectives
 - 

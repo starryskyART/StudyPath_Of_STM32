@@ -1,4 +1,4 @@
-# Learning Notes Template
+# 04-arduino-projects: Arduino Prototyping
 
 ## Objectives
 - 

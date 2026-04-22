@@ -1,4 +1,4 @@
-# Learning Notes Template
+# 03-esp32-projects: ESP32 & IoT
 
 ## Objectives
 - 
