@@ -1,0 +1,53 @@
+# Build directories
+build/
+out/
+bin/
+obj/
+Debug/
+Release/
+cmake-build-*/
+
+# Compiled binaries and objects
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.elf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+
+# Dependency and generated files
+*.d
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Keil uVision
+*.uvoptx
+*.uvguix.*
+
+# IAR Embedded Workbench
+*.ewd
+*.ewp
+*.eww
+*.dep
+
+# STM32CubeIDE / Eclipse
+.settings/
+.project
+.cproject
+
+# OS files
+.DS_Store
+Thumbs.db
